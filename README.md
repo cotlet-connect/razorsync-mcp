@@ -105,6 +105,7 @@ RazorSync has no official MCP server and no official app in ChatGPT or Claude (c
 
 - [RazorSync on Cotlet.dev](https://cotlet.dev/integrations/razorsync-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=razorsync&utm_content=find)
 - [PyPI package razorsync-mcp](https://pypi.org/project/razorsync-mcp/)
+- [Odel](https://odel.app/modules/cotlet/razorsync)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-razorsync-to-ai-agents-guide)
 
 ## Also works with
